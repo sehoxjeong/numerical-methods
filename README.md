@@ -1,30 +1,47 @@
 # Numerical Methods
 
-Notes and codes on Numerical methods.
+**⚠️ WORK IN PROGRESS ⚠️**
 
+Welcome to my "numerical-methods" repository!
+
+This repository contains notes and codes on numerical methods for economics.
+
+All errors are my own.
 
 ## Contents
 
+This repository is mainly divided into two parts: `notes` and `codes`.
 
-### Basics
+- `notes` include course notes on various topics in numerical analysis.
+- `codes` include programming codes that solve various numerical problems.
+- `python` include python tutorials for beginners.
+- `julia` include julia tutorials for beginners.
+- `matlab` include matlab tutorials for beginners.
 
-[01] Root finding
+### Notes
 
-[02] Numerical Differentiation
+- Computational Arithmetics
+- Linear Equations
 
-[03] Numerical Integration
+### Codes
 
-### Differential Equations
+- TBU
 
-### Optimization
+### Python
 
-### Appendix
-
-
-## Prerequisites
-
-Familiarity in Python programming is required. If not, you can refer to the Python tutorial files [here].
-
+- Basic Programming Concepts
+- Numerical Data Types
+- Strings and Regular Expressions
+- Boolean Data Types
+- Containers
+- Control Flow
+- File Input and Output
+- Functions
+- Object Oriented Programming
+- Exception Handling
+- Scientific Computing
+- Visualization
+- High Performance Computing
 
 ## References
 
@@ -32,6 +49,6 @@ Contents of the repository heavily draws from a lot of great sources.
 
 List of main references are listed below:
 
-- Ross L. Spencer and Michael Ware with John Colton. (2024). Partial Differential Equations: Python Edition. Computational Methods for Scientists. Department of Physics and Astronomy, Brigham Young University. 
+- TBU
 
 There are also many other references, which can be found at the first part of each file.
