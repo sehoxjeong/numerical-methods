@@ -41,7 +41,12 @@ This repository is mainly divided into two parts: `notes` and `codes`.
 - Exception Handling
 - Scientific Computing
 - Visualization
+- Panel Data
 - High Performance Computing
+
+### Julia
+
+### Matlab
 
 ## References
 
