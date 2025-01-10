@@ -14,8 +14,8 @@ This repository is mainly divided into two parts: `notes` and `codes`.
 
 - `notes` include course notes on various topics in numerical analysis.
 - `codes` include programming codes that solve various numerical problems.
-- `python` include python tutorials for beginners.
-- `julia` include julia tutorials for beginners.
+- `python` include python tutorials for beginners. No previous programming experience is required.
+- `julia` include julia tutorials for beginners. I assume you are familiar to writing a code with at least one programming language. (If not, Python would be a great starting point!) 
 - `matlab` include matlab tutorials for beginners.
 
 ### Notes
