@@ -1,6 +1,7 @@
 # Numerical Methods
 
-**⚠️ WORK IN PROGRESS ⚠️**
+> [!WARNING]
+> Work in progress!
 
 Welcome to my "numerical-methods" repository!
 
