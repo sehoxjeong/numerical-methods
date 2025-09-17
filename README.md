@@ -5,7 +5,7 @@
 
 Welcome to my "numerical-methods" repository!
 
-This repository contains notes and codes on numerical methods for economics.
+This repository contains notes and codes on numerical methods for economics. While it is on public, the primary goal for maintaining this repository is to organize my course notes on numerical methods that are used in economics and finance. 
 
 All errors are my own.
 
@@ -18,6 +18,9 @@ This repository is mainly divided into two parts: `notes` and `codes`.
 - `python` include python tutorials for beginners. No previous programming experience is required.
 - `julia` include julia tutorials for beginners. I assume you are familiar to writing a code with at least one programming language. (If not, Python would be a great starting point!) 
 - `matlab` include matlab tutorials for beginners.
+- `fortran` includes fortran tutorials for beginners.
+
+While all guides on programming languages starts from the very beginning, languages and programs other than Python assumes readers to have a basic knowledge on programming.
 
 ### Notes
 
